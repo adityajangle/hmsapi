@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hmsapi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="hmsapi/Repositories/PatientRepo.cs">
+    <Files>
+      <File FileName="hmsapi/Controllers/AppointmentController.cs" Line="24" Column="9" />
+      <File FileName="hmsapi/Data/mst_user.cs" />
+      <File FileName="hmsapi/Repositories/AppointmentRepo.cs" Line="17" Column="1" />
+      <File FileName="hmsapi/Data/mst_patient.cs" />
+      <File FileName="hmsapi/Controllers/RolesController.cs" />
+      <File FileName="hmsapi/Data/mst_role.cs" />
+      <File FileName="hmsapi/Repositories/RoleRepo.cs" />
+      <File FileName="hmsapi/Repositories/PermissionRepo.cs" />
+      <File FileName="hmsapi/Controllers/DepartmentController.cs" Line="11" Column="5" />
+      <File FileName="hmsapi/Repositories/DepartmentRepo.cs" />
+      <File FileName="hmsapi/Data/DataOperations.cs" />
+      <File FileName="hmsapi/Data/mst_department.cs" />
+      <File FileName="hmsapi/Controllers/DesignationController.cs" Line="42" Column="1" />
+      <File FileName="hmsapi/Repositories/DesignationRepo.cs" />
+      <File FileName="hmsapi/Repositories/UserRepo.cs" />
+      <File FileName="hmsapi/Controllers/PatientController.cs" Line="26" Column="9" />
+      <File FileName="hmsapi/Repositories/PatientRepo.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hmsapi" expanded="True">
+            <Node name="hmsapi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Managers" expanded="True" />
+              <Node name="Middlewares" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="PatientRepo.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,7 @@
+﻿@hmsapi_HostAddress = http://localhost:5128
+
+GET {{hmsapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
