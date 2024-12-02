@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 using hmsapi.Data;
 using hmsapi.Managers;
 using hmsapi.Models;
@@ -13,12 +14,9 @@ namespace hmsapi.Repositories
             DaoResponse drs = new DaoResponse();
             DaoRequest request = _sessionManager.RequestData;
             Dictionary<string, object> prms = JsonConvert.DeserializeObject<Dictionary<string, object>>(request!.Payload!)!;
-
-
-
-
             return drs;
         }
+
     }
 }
 

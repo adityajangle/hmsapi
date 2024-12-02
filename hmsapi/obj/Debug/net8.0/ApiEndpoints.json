@@ -1,0 +1,259 @@
+[
+  {
+    "ContainingType": "hmsapi.Controllers.AppointmentController",
+    "Method": "UpdateUser",
+    "RelativePath": "Appointment/AppointmentList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.AppointmentController",
+    "Method": "CreateUser",
+    "RelativePath": "Appointment/CreateAppointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.ConsentController",
+    "Method": "ConsenttypeList",
+    "RelativePath": "Consent/ConsentTypeList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.ConsentController",
+    "Method": "CreateConsent",
+    "RelativePath": "Consent/CreateConsent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "daoRequest",
+        "Type": "hmsapi.Models.DaoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.ConsentController",
+    "Method": "GetConsentForm",
+    "RelativePath": "Consent/GetConsentForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.ConsentController",
+    "Method": "PatientConsentList",
+    "RelativePath": "Consent/PatientConsentList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.ConsentController",
+    "Method": "PatientConsentListByAppointment",
+    "RelativePath": "Consent/PatientConsentListByAppointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cmsapi.Controllers.DepartmentController",
+    "Method": "CreateDepartment",
+    "RelativePath": "Department/CreateDepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cmsapi.Controllers.DepartmentController",
+    "Method": "DepartmentList",
+    "RelativePath": "Department/DepartmentList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cmsapi.Controllers.DepartmentController",
+    "Method": "UpdateDepartment",
+    "RelativePath": "Department/UpdateDepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cmsapi.Controllers.DesignationController",
+    "Method": "CreateDesignation",
+    "RelativePath": "Designation/CreateDesignation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cmsapi.Controllers.DesignationController",
+    "Method": "DesignationList",
+    "RelativePath": "Designation/DesignationList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cmsapi.Controllers.DesignationController",
+    "Method": "UpdateDesignation",
+    "RelativePath": "Designation/UpdateDesignation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.PatientController",
+    "Method": "SearchPatient",
+    "RelativePath": "Patient/SearchPatient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.RolesController",
+    "Method": "CreateRole",
+    "RelativePath": "Roles/CreateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.RolesController",
+    "Method": "GetAllPermissions",
+    "RelativePath": "Roles/GetAllPermissions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.RolesController",
+    "Method": "GetRoleById",
+    "RelativePath": "Roles/GetRoleById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.RolesController",
+    "Method": "RoleList",
+    "RelativePath": "Roles/RoleList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.RolesController",
+    "Method": "UpdateRole",
+    "RelativePath": "Roles/UpdateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "User/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.UserController",
+    "Method": "GetUserById",
+    "RelativePath": "User/GetUserById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "User/UpdateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.UserController",
+    "Method": "UserList",
+    "RelativePath": "User/UserList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hmsapi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[hmsapi.WeatherForecast, hmsapi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adityajangle/Documents/hmsapi/hmsapi/hmsapi.csproj": {}
+    "D:\\SampleProject\\hmsapi\\hmsapi\\hmsapi.csproj": {}
   },
   "projects": {
-    "/Users/adityajangle/Documents/hmsapi/hmsapi/hmsapi.csproj": {
+    "D:\\SampleProject\\hmsapi\\hmsapi\\hmsapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adityajangle/Documents/hmsapi/hmsapi/hmsapi.csproj",
+        "projectUniqueName": "D:\\SampleProject\\hmsapi\\hmsapi\\hmsapi.csproj",
         "projectName": "hmsapi",
-        "projectPath": "/Users/adityajangle/Documents/hmsapi/hmsapi/hmsapi.csproj",
-        "packagesPath": "/Users/adityajangle/.nuget/packages/",
-        "outputPath": "/Users/adityajangle/Documents/hmsapi/hmsapi/obj/",
+        "projectPath": "D:\\SampleProject\\hmsapi\\hmsapi\\hmsapi.csproj",
+        "packagesPath": "C:\\Users\\Appcart_01\\.nuget\\packages\\",
+        "outputPath": "D:\\SampleProject\\hmsapi\\hmsapi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/adityajangle/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Appcart_01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -41,6 +53,14 @@
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.0.3, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "FreeSpire.Doc": {
+              "target": "Package",
+              "version": "[12.2.0, )"
             },
             "MySql.Data": {
               "target": "Package",
@@ -98,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

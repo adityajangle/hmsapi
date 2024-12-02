@@ -73,6 +73,7 @@ namespace hmsapi.Middlewares
                             throw new UnauthorizedAccessException("invalid hash");
                         }
                         DaoRequest d = JsonConvert.DeserializeObject<DaoRequest>(plData)!;
+                        
                         _sessionManager.RequestData = d;
                         JLogger.WRT(new DaoJLogger()
                         {

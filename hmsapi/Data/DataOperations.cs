@@ -2,6 +2,8 @@
 using System;
 using System.Data;
 using System.Reflection;
+using Google.Protobuf.WellKnownTypes;
+using System.Text;
 using hmsapi.Services;
 using MySql.Data.MySqlClient;
 
@@ -237,6 +239,11 @@ namespace hmsapi.Data
                     else if (_val is int && _props[i].PropertyType == typeof(string))
                     {
                         _props[i].SetValue(target, $"{_val}");
+                    }
+                    else if (_val is byte[] && _props[i].PropertyType == typeof(string))
+                    {
+                        string value = Encoding.UTF8.GetString((byte[])_val);
+                        _props[i].SetValue(target, $"{value}");
                     }
                     else
                     {

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SampleProject\\hmsapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\controllers\\consentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\controllers\\consentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\repositories\\consentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\repositories\\consentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\data\\mst_consent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\data\\mst_consent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\managers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\managers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\middlewares\\securityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\middlewares\\securityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\data\\mst_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\data\\mst_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|d:\\sampleproject\\hmsapi\\hmsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EF92B3-37CA-41CD-B78A-EBAADB26BE59}|hmsapi\\hmsapi.csproj|solutionrelative:hmsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "hmsapi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:39:44.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsentRepo.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Repositories\\ConsentRepo.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Repositories\\ConsentRepo.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Repositories\\ConsentRepo.cs",
+              "RelativeToolTip": "hmsapi\\Repositories\\ConsentRepo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvzEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:56:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mst_consent.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Data\\mst_consent.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Data\\mst_consent.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Data\\mst_consent.cs",
+              "RelativeToolTip": "hmsapi\\Data\\mst_consent.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAvwFEAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:42:17.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mst_user.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Data\\mst_user.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Data\\mst_user.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Data\\mst_user.cs",
+              "RelativeToolTip": "hmsapi\\Data\\mst_user.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0QAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:35:36.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Program.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Program.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Program.cs",
+              "RelativeToolTip": "hmsapi\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:58:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Managers\\SessionManager.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Managers\\SessionManager.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Managers\\SessionManager.cs",
+              "RelativeToolTip": "hmsapi\\Managers\\SessionManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0UAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:34:26.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityHandler.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Middlewares\\SecurityHandler.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Middlewares\\SecurityHandler.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Middlewares\\SecurityHandler.cs",
+              "RelativeToolTip": "hmsapi\\Middlewares\\SecurityHandler.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:34:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsentController.cs",
+              "DocumentMoniker": "D:\\SampleProject\\hmsapi\\hmsapi\\Controllers\\ConsentController.cs",
+              "RelativeDocumentMoniker": "hmsapi\\Controllers\\ConsentController.cs",
+              "ToolTip": "D:\\SampleProject\\hmsapi\\hmsapi\\Controllers\\ConsentController.cs",
+              "RelativeToolTip": "hmsapi\\Controllers\\ConsentController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:58:05.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

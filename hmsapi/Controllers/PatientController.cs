@@ -27,6 +27,7 @@ namespace hmsapi.Controllers
             DaoResponse _drs = PatientRepo.SearchPatient(_sessionManager, _dbOperations);
             return Ok(UtilService.ProcResponse(_drs, HttpContext, _sessionManager));
         }
+
     }
 }
 
